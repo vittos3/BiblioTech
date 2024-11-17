@@ -111,7 +111,3 @@ Sinta-se à vontade para contribuir com o projeto! Basta seguir os passos:
 ## **Licença**
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
----
-
-Se quiser, me avise se precisar de algo mais ou de ajustes nesse texto! 😊
