@@ -1,6 +1,3 @@
-Claro! Aqui está o texto do README formatado e pronto para ser usado no GitHub:
-
----
 
 # **Sistema de Gerenciamento de Biblioteca Online**
 
